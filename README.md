@@ -1,3 +1,23 @@
+# PrecedentAI
+
+Requirements:
+- AWS Cloud9 & Bedrock
+
+  
+Components:
+- UKAIT_Documents (scraped text-data from UKAIT decisions, 8000 documents, ~8million lines of text)
+- textgrad (method for improving text prompts to LLM)
+- conversation_env (code for RAG model capable of responding to follow-up questions)
+
+
+
+
+
+         
+         
+         
+         
+         
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
