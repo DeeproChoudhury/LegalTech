@@ -1,6 +1,6 @@
 from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
-from rag import llm, retriever, query, pp
+from conversation_env.rag import llm, retriever, query, pp
 import json
 
 
