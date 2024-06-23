@@ -1,0 +1,274 @@
+Kaja (Political asylum; standard of proof) (Zaire) [1994] UKIAT 11038 (10 June 1994)
+If you found BAILII useful today, could you please make a contribution?
+Your donation will help us maintain and extend our databases of legal information. No contribution is too small. If every visitor this month donates, it will have a significant impact on BAILII's ability to continue providing free access to the law.
+Thank you very much for your support!
+[
+Home
+]
+    [
+Databases
+]
+    [
+World Law
+]
+    [
+Multidatabase Search
+] 
+    [
+Help
+]
+    [
+Feedback
+]
+United Kingdom Asylum and Immigration Tribunal
+You are here:
+BAILII
+>>
+Databases
+>>
+United Kingdom Asylum and Immigration Tribunal
+>>
+      
+      Kaja (Political asylum; standard of proof) (Zaire) [1994] UKIAT 11038 (10 June 1994)
+URL:
+http://www.bailii.org/uk/cases/UKIAT/1994/11038.html
+Cite as: 
+[1995] Imm AR 1,
+
+[1994] UKIAT 11038
+[
+New search
+]
+
+
+
+
+
+
+
+
+[
+Help
+]
+JISCBAILII_CASE_IMMIGRATION
+Kaja (
+Political asylum; standard of proof
+) (Zaire) [1994] UKIAT 11038 (10 June 1994 )
+HX/70673/93
+IMMIGRATION APPEAL TRIBUNAL
+Date of hearing:
+Date Determination notified: 10 June 1994
+Before
+G W Farmer Esq (President)
+Professor D C Jackson (Vice-President)
+R E Maddison Esq
+Between
+Kaja
+APPELLANT
+and
+Secretary of State for the Home Department
+RESPONDENT
+C Williams
+for the appellant (instructed by Powell & Co, London, SE18) S Cox of counsel who appeared for the appellant in the case of
+Bansende
+(HX/70385/93) also made submissions to the Tribunal.
+C Thursby
+for the respondent
+DETERMINATION AND REASONS
+Majority Determination (The President, the Vice-President)
+The appellant, who is a national of Zaire, appeals against a decision of an adjudicator (Professor K Counter) dismissing his appeal against the refusal of leave to enter. The applicant claimed asylum.
+For two reasons it is agreed that the case must be remitted for rehearing. In his determination the adjudicator set out the Secretary of State's view of the case and the evidence before him. He said of the appellant that he did not believe his evidence and did not accept as reliable the evidence the appellant gave at the hearing. As to various aspects of the evidence the adjudicator said "I simply do not understand this and I do not believe it" and "there are further matters which it is extremely difficult to make sense of". As to other parts of the evidence the adjudicator said "I do not find this a convincing explanation in any way" and "... much of what he says I simply do not believe and the evidence which falls into this category is of such a quantity that it casts doubt on my being able to believe in respect of any other things which he has told me".
+Unfortunately the adjudicator made no reference whatsoever to any standard of proof which he was applying. As is well established the adjudicator's task in an asylum appeal is to assess whether subjectively the appellant has a fear of being returned to his country of origin and objectively whether there is a reasonable likelihood of persecution if returned. It is well-known that the latter criterion was established in
+Secretary of State v Sivakumaran
+[1988] Imm AR 147
+. Giving one of the two leading judgments Lord Keith said:
+"In my opinion the requirement that an applicant's fear of persecution should be well-founded means that there has to be demonstrated a reasonable degree of likelihood that he will be persecuted for a Convention reason if returned to his own country. In
+R v Governor of Pentonville Prison, ex parte Fernandez
+[1971] 1 WLR 987
+, this House had to construe section 4(1 )(c) of the Fugitive Offenders Act 1967, which requires that a person shall not be returned under the Act if it appears:
+"that he might, if returned, be prejudiced at his trial or punished, detained or restricted in his personal liberty by reasons of his race, religion, nationality or political opinions."
+Lord Diplock said, at p 994:
+"My Lords, bearing in mind the relative gravity of the consequences of the court's expectation being falsified either in one way or in the other, I do not think that the test of the applicability of paragraph (c) is that the court must be satisfied that it is more likely than not that the fugitive will be detained or restricted if he is returned. A lesser degree of likelihood is, in my view, sufficient; and I would not quarrel with the way in which the test was stated by the magistrate or with the alternative way in which it was expressed by the Divisional Court. 'A reasonable chance', 'substantial grounds for thinking', 'a serious possibility' - I see no significant difference between these various ways of describing the degree of likelihood of the detention or restriction of the fugitive on his return which justifies the court in giving effect to the provisions of section 4(l)(c)."
+I consider that this passage appropriately expresses the degree of likelihood to be satisfied in order that a fear of persecution may be well-founded."
+We find it surprising that some adjudicators continue to omit any reference to
+Sivakumaran
+or to the principle therein established. In our view the parties are entitled to know that the adjudicator has applied the appropriate criterion and they will not know unless there is an explicit reference to it. It is desirable that the passage we have set out above is fully cited
+[1]
+and it is essential that in the determination there is express reference to the criterion.
+In the light of the adjudicator's omission Mr Thursby agreed that there is no alternative that the case should be remitted for rehearing.
+Secondly, the adjudicator thought that as a matter of law the appellant could not claim a well-founded fear of persecution in Zaire for a Convention reason "as a result of unsuccessfully having thought to establish such a fear in the United Kingdom". The same view taken by the Tribunal in the case of
+Senga
+was held in the High Court to be an error in law. In the judgment of 9 March 1994, Laws J said ". . .it seems to me to be erroneous as a matter of law to hold there can never be a case in which by the very act of claiming asylum an applicant puts himself at risk of persecution. Whether and in what circumstances such a state of affairs will arise is of course something else altogether..." This therefore is an issue which may be raised at the rehearing of the case.
+The third matter concerns the standard of proof applicable to the establishment of facts in asylum claims. On this matter there is inconsistency as between Tribunal decisions and there is no express and binding guidance from the superior courts. The Tribunal therefore adjourned this case together with a case raising a similar issue
+(Bansende
+HX/70385/93) for argument and the remainder of this determination is concerned with that point.
+The standard of proof relating to facts
+The issue as we see it is whether the assessment of an asylum claim is a one or two stage process. Is it (as the Tribunal said in
+Baig
+(8497)) a one stage process with the standard of proof being "the reasonable likelihood" criterion as set out by Lord Keith or is it, as a differently constituted Tribunal held in
+Mukendi
+(10586), first the establishment of historical facts according to balance of probabilities and the assessment of the reasonable likelihood of persecution on the facts so established?
+In
+Hussain
+(10455) a Tribunal differently constituted to those in
+Baig
+and to
+Mukendi
+seems initially to have taken the same approach as
+Mukendi
+but then appears to suggest that the reasonable likelihood of persecution must also be established to the balance of probabilities. With respect, it seems to us that the balance of probabilities (or "more likely than not") and "a reasonable likelihood" each reflect a degree of certitude - we cannot think it practical to require either of those degrees to be established to a yet further degree.
+The approach to be adopted cannot vary as to whether the case is on appeal or being considered initially by the Secretary of State. Mr Thursby had no instructions as to the general approach of the Secretary of State.
+The authorities
+We should first deal with relevant decisions of the House of Lords, Court of Appeal and High Court. The sole decision of the superior courts in which there is direct reference to the matter is
+R v Immigration Appeal Tribunal ex parte Jonah
+[1985] Imm AR 7. In that case Nolan J said:
+"As it seems to me there may here be a danger of creating a difficulty where in truth none exists. The adjudicator, like any fact-finding tribunal, can only act on evidence of the facts. In civil litigation the evidence required to be produced by the party upon whom the burden of proving the facts lies must be evidence which satisfies the tribunal on the balance of probabilities. It seems to me that, as indeed Lord Diplock himself said, it is a convenient phrase to indicate the degree of certainty which the evidence must have induced in the mind of the court as to the existence of facts. In certain cases, of which personal injuries actions are one instance and paragraph 134 is to my mind another, the court must then make an inference or, if you like an informed guess as to what may happen in the future. It can only do so on the basis of the facts proved on the balance of probabilities."
+This view was expressed some years before the establishment of the "reasonable likelihood" test in
+Sivakumaran.
+The case was decided at the time when the Tribunal was grappling with the appropriate approach to the future estimate required in regard to likely persecution but even as to this likelihood Nolan J was prepared only to say that this was different from the balance of probabilities. Further, the standard applied by the adjudicator - "even on balance of probabilities" - which the learned judge refused to hold incorrect would not now stand in the light of
+Sivakumaran.
+It seems to us, with respect, that the question of the one or two stage approach can only be considered in the light of the judgments in the latter case.
+Despite the comments of Nolan J, the level of certitude required in respect of facts is not necessarily the balance of probability - or as we would prefer it "the more likely than not" test. As Mr Williams reminded us "the more likely than not" test is not of itself a fixed standard, it being accepted that the degree of certitude required will vary within that standard according to that gravity of the consequence of the result. Particularly, therefore, where the central feature for assessment is the reasonable likelihood of an event occurring and that event will have extremely grave consequences if it does occur, there is no inherent reason why the estimate must be based on facts more likely than not to have occurred.
+Conversely there is no inherent reason why any estimate of what may happen should not be adjudged on the standard as being "more likely than not". The question is whether, given that the criterion for making the future estimate is "reasonable likelihood" assessment of historical facts should be according to that criterion or that of "more likely than not".
+The task for an asylum applicant is to bring himself within article 1A of the
+Convention relating to the status of refugees
+1951 as amended by the
+Protocol
+of 1967. So far as relevant that provision reads:
+"For the purposes of the present Convention, the term "refugee" shall apply to any person who:
+(2) . . . owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or, owing to such fear, is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it."
+The issue before the higher courts in
+Sivakumaran
+was whether "well-founded fear" was solely an assessment of the applicant's fear or was to be assessed on an objective basis. In holding that this was a matter for objective assessment Lord Keith said:
+"The claimant to refugee status is not immediately threatened with danger arising out of a situation then confronting him. The question is what might happen if he were to return to the country of his nationality. He fears that he might be persecuted there. Whether that might happen can only be determined by examining the actual state of affairs in that country. If that examination shows that persecution might indeed take place then the fear is well-founded. Otherwise it is not."
+Having held that this was a matter for objective assessment and having referred to a case in the Supreme Court of the United States Lord Keith then set out the criteria for assessing the objective establishment of a well-founded fear in the passage we have already cited. Towards the end of the judgment Lord Keith referred to the approach taken by the Secretary of State in the case before him. It is as well to set out the whole of this passage:
+"The affidavit of Mr Potts, an official of the Home Office, indicates that the Secretary of State took into account reports of the refugee unit of his department compiled from sources such as press articles, journals and Amnesty International publications, and also information supplied to him as by the Foreign Office and as a result of recent visits to Sri Lanka by ministers. It is well known that for a considerable time Sri Lanka, or at least certain parts of that country, have been in a serious state of civil disorder, amounting at time to civil war. The authorities have taken steps to suppress the disorders and to locate and detain those responsible for them. These steps, together with the activities of the subversives, have naturally resulted in painful and distressing experiences for many persons innocently caught up in the troubles. As the troubles have occurred principally in areas inhabited by Tamils, these are the people who have suffered most. The Secretary of State has in his decision letters expressed the view that army activities aimed at discovering and dealing with Tamil extremists do not constitute evidence of persecution of Tamils as such. This was not disputed by counsel for any of the applicants, nor was it seriously maintained that any sub-group of Tamils, such as young males in the north of the country, were being subjected to persecution for any Convention reason. It appears that the Secretary of State, while taking the view that neither Tamils generally nor any group of Tamils were being subjected to such persecution, also considered whether any individual applicant had been so subjected and decided that none of them had been. Consideration of what had happened in the past was material for the purpose of assessing the prospects for the future."
+The second leading judgment was delivered by Lord Goff. In holding that an applicant for asylum had to establish that "on the objective facts a real or substantial risk for a Convention reason actually exists" Lord Goff said:
+". . . in truth; once it is recognised that the expression "well-founded" entitles the Secretary of State to have regard to facts unknown to the applicant for refugee status, that expression cannot be read simply as "qualifying" the subjective fear of the applicant - it must, in my opinion, require that an inquiry should be made whether the subjective fear of the applicant is objectively justified. For the true object of the Convention is not just to assuage fear, however reasonably and plausibly entertained, but to provide a safe haven for those unfortunate people whose fear of persecution is in reality well-founded."
+Lord Goff added:
+"... I respectfully agree with my noble and learned friend, Lord Keith of Kinkel, for the reasons given by him that the requirement that the applicant's fear must be well-founded means no more than that there has to be demonstrated a reasonable degree of likelihood of his persecution for a Convention reason."
+Lord Templeman dismissed the appeal solely on the ground that there was no error in the approach of the Secretary of State. Lord Bridge and Lord Griffiths agreed with the three judgments.
+Since
+Sivakumaran
+the courts have not been faced squarely with the issue before us. We were referred to the High Court decision in
+R v Immigration Appeal Tribunal ex parte Aji-Barwuah
+(8 December 1988) and the Tribunal drew the attention of the representatives to
+R v Secretary of State for the Home Department ex parte Halil Direk
+[1992] Imm AR 330. In
+Aji-Barwuah
+Rose J referred to the standard of proof required following
+Sivakumaran
+but the passage in which the reference is made is certainly capable of more than one construction. In
+Direk
+Macpherson J set out the approach to be adopted in the light
+of Sivakumaran
+as he saw it:
+"In my judgment, both the past and the present must be looked at. Unless a man can satisfy the Secretary of State that there is a reasonable degree of likelihood that he will be persecuted for one of the Convention reasons, then he fails in his application."
+After referring to assertions by the applicant that many times he had been arrested, beaten and questioned about his political activity the learned judge continued:
+"There are no details of the numbers of occasions when that happened, but the Secretary of State must have, and did, assume in the applicant's favour that he was ill-treated and harassed on a number of occasions. What the Secretary of State then has to do, however, in my judgment, is to measure the seriousness of the whole picture. He must take into account the fact that there was an occasion of persecution in 1980; he must take into account what has happened since; he must look at the whole picture; and he must decide whether the applicant has demonstrated a reasonable degree of likelihood that he would be persecuted were he to be sent back to the country."
+In our respectful view the unitary approach of Macpherson J reflects the principle of the
+Sivakumaran
+decision. It is inconceivable to us that if the House of Lords had seen the criteria for assessment of "well-founded fear" as consisting of two stages of differing standards it would not have so expressly held. Throughout the relevant passages there is reference to "objective facts" but there is no hint that "the reasonable likelihood" criteria is to be based solely on facts established as more likely than not to have occurred. In both
+Sivakumaran
+and
+Direk
+there was reference to the relevance of the past to the estimate of the future. In both the estimate was based on a single assessment of "reasonable likelihood".
+The point is underlined by the approach of the courts in the
+Fernandez
+case, the decision adapted to asylum claims by Lord Keith in
+Sivakumaran.
+In that case the court had to assess whether there was a reasonable degree of likelihood that any of the consequences specified in the Fugitive Offenders Act would occur if the appellant were returned to Singapore. The evidence was examined in the Divisional Court, the leading judgment of which was by Lord Parker CJ. Lord Parker asked himself the question whether there were "substantial grounds for thinking" that the appellant might be dealt with in a particular way, set out the evidence relevant to that question and concluded that he was not so satisfied. There is no intermediate stage of a finding of fact to a particular standard.
+The principle
+-
+the relevance of uncertainty
+In our view the principle is expressed in paragraph 42 of the
+Handbook on procedures and criteria for determining refugee status:
+"In general, the applicant's fear should be considered well-founded if he can establish, to a reasonable degree, that his continued stay in his country of origin has become intolerable to him for the reasons stated in the definition, or would for the same reasons be intolerable if he returned there."
+In
+Sivakumaran
+the House rejected the argument that that passage justified an approach that all an applicant had to show was a "good reason" for fear of persecution. It did not, however, suggest that in order to establish the "reasonable degree" the intolerability had to be based only on facts established as more likely than not to exist.
+To adopt the two stage test is to make a serious inroad into the focus on the risk or reasonable degree of likelihood which lies at the heart of
+Sivakumaran.
+As we were reminded at the hearing and as is well established the "proof" of facts on which an asylum plea is founded is notoriously difficult. In many cases the evidence will be the applicant's own story supported in some instances by reports of various organisations such as Amnesty International. There is therefore the probability of a greater than normal uncertainty as to the establishment of historical facts. While the duty of the adjudicator and the Secretary of State is to evaluate the evidence, that evaluation must be undertaken bearing in mind the stress generated by the nature of the claim and possible consequences if refused, including the highly formalistic atmosphere of interview or court. This does not mean that there should be more ready acceptance of fact as established as more likely than not to have occurred, but a more positive role for uncertainty.
+It will be the rare decision taker who in any case (asylum or not) is never uncertain about some aspects of evidence, particularly where, unlike civil litigation, evaluation is often solely of one version of the "facts". It is the uncertainty of what will happen to the applicant that is the rationale of
+Sivakumaran.
+Adopting a two stage process in an asylum matter means, if anything, the removing from consideration of any "factor" about which there is uncertainty as to its existence.
+The applicability of the "reasonable degree of likelihood" approach to the whole recognises that an assessment of future likelihood cannot sensibly be separated from an assessment of the past and present. So, for example, the question raised in this case of whether an application for asylum is a ground of asylum can only be answered by an assessment of the circumstances of unsuccessful and returned asylum seekers. To say that it is only the facts established as more likely than not to have occurred on which the "reasonable likelihood" must be based is to remove much of the benefit of uncertainty conferred on the applicant through
+Sivakumaran.
+Credibility of aspects of the evidence and the ultimate evaluation of the case
+The two stage process seems to us, with respect, to confuse assessment of the aspects of the evidence with the ultimate evaluation of the case as a whole. Where the ultimate evaluation is on the standard of "more likely than not" the question is whether on the evidence the case is made to that standard - that requires the weighing the evidence as a whole (including uncertainty - see, for example,
+R v Immigration Appeal Tribunal ex parte Amin
+[1992] Imm AR 367).
+It is precisely the same with the ultimate evaluation of a "reasonable degree of likelihood" - that being applied to the assessment of the evidence whatever standards have been applied to assess aspects of it. The standards applied to aspects of the evidence will obviously be made by the decision taker with the ultimate evaluation in mind. It may be that there are parts of the evidence which on any standard are to be believed or not to be believed and some which are more likely than not, and some about which there is a doubt. The need to reach a decision on whether an appellant has made his case to a reasonable degree of likelihood arises (just as "more likely than not") only on the ultimate evaluation of the case. All the evidence and the varying degrees of belief or disbelief are then assessed.
+To introduce an intervening stage of a general conclusion followed by the assessment of the risk may make the applicant's evidential hurdle even more stringent than "more likely than not". If the ultimate test is "more likely than not" the uncertainties as to the evidence would be put on the final scale. The only purpose of assessment of the facts as a basis for assessment is to exclude uncertainties. This cannot be right.
+Finally, it must be remembered that much of the background may (and probably will) be evidence adduced by the Secretary of State. That evidence will probably include assessments of the state of affairs in the country concerned and, as stressed in
+Sivakumaran,
+evidence of facts not known to the applicant. If there is an obligation to establish "facts" as "more likely than not" it must work both ways. The practical and realistic approach is, as is evident from
+Sivakumaran
+and
+Direk,
+and, if we may say so, the general approach of the Secretary of State in asylum cases, to assess whether on all the evidence (whatever its credibility and whoever adduces it) there is a reasonable degree of likelihood of persecution.
+Summary
+In the end therefore, with respect, the suggestion of the intervening stage is simply an unnecessary complexity. The task of the adjudicator or the Secretary of State remains as in all cases - to assess the belief in the evidence with the ultimate evaluation in mind and to base that evaluation on the views of the evidence as a whole. We stress the need for an adjudicator in each determination to make it clear to the parties:
+(i) that the assessment of whether a claim to asylum is well founded is based on the evidence as a whole (going to past, present and future) and is according to the criterion of the reasonable degree of likelihood.
+(ii) the evidential foundation for that decision.
+(iii) how the adjudicator moves from the evidential foundation to the conclusion.
+As to (i) it is not enough for an adjudicator to know in his own mind that he is applying the principles set out in
+Sivakumaran
+and it is not enough for some general reference to be made to that case. It must be made plain that the criteria of that case have been applied - the most direct and effective way of accomplishing this is to set out in full the passage from Lord Keith which we have cited. As to (ii), the adjudicator should make clear the view taken of the credibility of aspects of the evidence including any evidence about which the adjudicator remains uncertain and as to (iii), it must be demonstrated how by a reasoning process the adjudicator translates his findings on the credibility of the evidence to his evaluation of the case as a whole, according to the criterion of "a reasonable degree of likelihood".
+The appeal is allowed in so far as the matter is remitted to an adjudicator other than Professor K Counter to be adjudged according to the principles of this determination.
+Minority Determination (R E Maddison)
+I have read the majority decision in
+Kaja
+and do not agree with the conclusions insofar as they lay down that in evaluating the truth of alleged historical facts on which an applicant's claim for asylum is based, a standard lower than that of balance of probabilities is to be applied.
+It is helpful to recall the different types of evidence, as to the past, which are normally available in asylum appeals. They might be categorised thus: general background documentary evidence either prepared by international or human rights groups or extracts from newspapers and journals: documentary evidence of a more personal nature, purporting to relate to the individual appellant - copies of alleged warrants, letters advising the appellant not to return to his own country for one reason or another: the oral testimony of the appellant and occasionally (but not very often) oral testimony of compatriots. It is only in respect of the appellant's oral testimony as a rule that the issue under consideration arises, although it may also arise in respect of the documentary evidence of a personal nature.
+It is not disputed that a refugee may well have difficulty in producing documentary evidence relating to his personal history. It is equally well recognised that the oral testimony of the appellant is likely to be of paramount importance. In that oral testimony the appellant must recount a history which, at the very least, explains his subjective fear. The first task, and as a rule, the crucial task of the adjudicator is to decide whether or not he believes the account given by the appellant.
+If the adjudicator does not believe that account, it is very unlikely that the appellant will succeed: it does not of course follow, if he be believed, that his appeal will succeed, for it may be that the adjudicator relating that credible account to general circumstances will conclude that there is still no claim for asylum for a Convention reason. Leaving aside those cases, the acceptance of material facts as to past events affecting the appellant will depend on the assessment of the appellant as a witness. In that regard credibility of the witness and the acceptance of historical facts as to his experiences are inextricably linked. It is in that area that the question of balance of probabilities or some lower standard of proof as a rule arises. It may be that an adjudicator will also question the genuineness, in some respect, of documentary evidence purportedly relating to the individual appellant, albeit that is less commonly the case.
+In assessing whether or not the appellant's account is a true account of historical facts, I see no reason why, on a commonsense basis or in law, the burden of proof should be any lower than the normal civil standard of balance of probabilities. The appellant is simply required to tell the truth, and that should be no more difficult in an asylum appeal than in any other type of appeal.
+It is correct, as the majority opinion states, that since
+Sivakumaran
+was decided, no superior authority has specifically considered the issue. I think however that the weight of authority is somewhat greater than that opinion suggests. Lord Diplock's opinion in
+Fernandez
+is there quoted in part, as repeated by Lord Keith. A different part is quoted in
+Jonah
+(pp 10-11 of the report): Lord Diplock had said: "balance of probabilities ... is a convenient and trite phrase to indicate the degree of certitude which the evidence must have induced in the mind of the court as to the existence of facts, so as to entitle the court to treat them as data capable of giving rise to legal consequences. But the phrase is inappropriate when applied not to ascertaining what has already happened but to prophesying what, if it happens at all, can only happen in the future".
+Fernandez
+was of course drawn to their lordships attention in
+Sivakumaran
+and there is no suggestion in any judgment in
+Sivakumaran
+that the House of Lords had resiled from the position Lord Diplock had adopted in
+Fernandez
+in which he had given the leading judgment. The position he adopted in
+Fernandez
+is reflected in the informal comments of Jowitt J in
+Mikabila
+(unreported, QBD 20 January 1994), in granting leave to move for judicial review. Those comments are not of course, in the circumstances authoritative but likewise do not deserve entirely to be discounted. None of the extracts from
+Sivakumaran
+quoted in the majority opinion relates to the standard of proof by which historical events are to be tested as to their truth: I do not think they advance the argument in any way. Likewise the case of
+Direk
+is of no assistance, because the germane historical facts had been accepted by the Secretary of State, and were therefore not under challenge before the learned judge.
+It is not, with respect, correct to suggest that a two stage test makes "a serious inroad into the focus on the risk of reasonable likelihood which lies at the heart of
+Sivakumaran"
+, because
+Sivakumaran
+is not authority, directly, for any proposition as to the standard of proof applicable to the evaluation of the truth of events in the past as recounted by an appellant. It is not, in my view, the two stage test that leads to confusion between aspects of the evidence and the ultimate evaluation of the case as a whole: confusion is introduced by a disinclination to distinguish between the standard to be adopted for the assessment of facts relating to events in the past, which either did or did not occur, and the possibility of events occurring in the future, where obviously there is a wider area of uncertainty.
+Case remitted for hearing de novo
+Note 1   In the case of
+Sanjeev Kumar and ors,
+Popplewell J said "I do not accept the submission that the adjudicator needs to set out the decision in
+Sivakumaran
+in anything other than its name and its place in the list of authorities".
+[Back]
+BAILII:
+Copyright Policy
+|
+Disclaimers
+|
+Privacy Policy
+|
+Feedback
+|
+Donate to BAILII
+URL:
+http://www.bailii.org/uk/cases/UKIAT/1994/11038.html

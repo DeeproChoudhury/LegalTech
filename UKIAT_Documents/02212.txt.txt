@@ -1,0 +1,191 @@
+Entry Clearance Officer, Dhaka v SB [2002] UKIAT 02212 (27 June 2002)
+If you found BAILII useful today, could you please make a contribution?
+Your donation will help us maintain and extend our databases of legal information. No contribution is too small. If every visitor this month donates, it will have a significant impact on BAILII's ability to continue providing free access to the law.
+Thank you very much for your support!
+[
+Home
+]
+    [
+Databases
+]
+    [
+World Law
+]
+    [
+Multidatabase Search
+] 
+    [
+Help
+]
+    [
+Feedback
+]
+United Kingdom Asylum and Immigration Tribunal
+You are here:
+BAILII
+>>
+Databases
+>>
+United Kingdom Asylum and Immigration Tribunal
+>>
+      
+      Entry Clearance Officer, Dhaka v SB [2002] UKIAT 02212 (27 June 2002)
+URL:
+http://www.bailii.org/uk/cases/UKIAT/2002/02212.html
+Cite as: 
+[2002] UKIAT 2212,
+
+[2002] UKIAT 02212
+[
+New search
+]
+
+
+
+
+
+
+
+[
+Printable RTF version
+]
+
+
+[
+Help
+]
+Entry Clearance Officer, Dhaka v SB [2002] UKIAT 02212
+TH/40934/2001
+IMMIGRATION APPEAL TRIBUNAL
+Date of hearing: 18/06/2002
+Date Determination notified: 27 June 2002
+Before
+DR H H STOREY (Chair)
+MR M G TAYLOR CBE
+MRS A J F CROSS DE CHAVANNES
+Between
+Entry Clearance Officer, Dhaka
+APPELLANT
+and
+SB
+RESPONDENT
+DETERMINATION AND REASONS
+This case addresses the issue of what approach adjudicators should take to appeals based on Article 8 against decisions made by an Entry Clearance Officer refusing entry to a family member.
+The appellant, Entry Clearance Officer, Dhaka, has appealed with leave of the Tribunal against a determination of Adjudicator, Mr D P Herbert, allowing on human rights grounds the respondent`s appeal against the decision of the appellant refusing to grant a certificate of entitlement to the right of abode. Ms M Banwait appeared for the appellant. Mr H Allison of IAS appeared for the respondent whom we shall hereafter refer to as the claimant.
+The Tribunal has decided to allow this appeal.
+The appeal before the adjudicator concerned Shamim Box and his half-brother, Lala Box. The adjudicator allowed the appeal of Lala Box, finding that he had been born in 1969 and so could claim a right of abode by descent through his father who had obtained British citizenship in 1968. We do not need to concern ourselves with the appeal of Lala Box because the appeal by the Entry Clearance Officer to the Tribunal is specifically confined to the adjudicator's allowance on human rights grounds of the appeal by Shamim Box.
+Shamim Box was born on 8 July 1978. That being a date subsequent to his father`s acquisition of British citizenship, he cannot claim a certificate of entitlement based on a right of abode by descent through his father. This is not in dispute. Nor is there any dispute that the adjudicator was right in consequence to dismiss the claimant's appeal insofar as it fell to be considered under the Immigration Acts and the Immigration Rules (paragraphs 12 and 13 of HC395). As the adjudicator correctly recognised, the relevant immigration provisions of the Immigration Act and the rules permitted him no discretion to allow the appeal. We would also observe that at the date of decision the claimant`s father, Bahadur Bokta, was deceased. Therefore the claimant could not qualify under any other immigration rule relating to family settlement each of which requires a sponsor who is present and settled in the UK.
+But as the adjudicator also correctly recognised, the appeal had a separate claim based on his right to respect for private and family life under Article 8 of the ECHR.
+The adjudicator's human rights jurisdiction in the context of a decision by an Entry Clearance Officer
+The adjudicator did not identify the legal basis for the human rights appeal. We would identify its source in two provisions of the 1999 Act. One is s. 65 (as amended), which reads in part:
+"(1). A person who alleges that an authority has, in taking any decision under the Immigration Acts relating to that person's entitlement to enter or remain in the United Kingdom racially discriminated against him or acted in breach of his human rights may appeal to an adjudicator against that decision...
+(2)
+(b) an authority acts in breach of a person`s human rights if he acts, or fails to act, in relation to that other person in a way which is made unlawful by section 6(1) of the Human Rights Act 1998.
+(3) Subsection (4) and (5) apply if, in proceedings before an adjudicator or the Immigration Appeal Tribunal on an appeal, a question arises as to whether an authority has, in taking any decision under the Immigration Acts relating to the appellant's entitlement to enter or remain in the United Kingdom, racially discriminated against the appellant or acted in breach of the appellant's human rights".
+(4). The adjudicator, or the Tribunal, has jurisdiction to consider the question.
+(5) If the adjudicator or the Tribunal decides that the authority concerned:
+(a) racially discriminated against the appellant; or
+(b) acted in breach of the appellant's human rights, the appeal may be allowed on the ground in question".
+Section 65(7) further provides that:
+"'Authority' means:
+(a) the Secretary of State;
+(b) an immigration officer;
+(c) a person responsible for the grant or refusal of entry clearance."
+In this case the original decision made on 27 May 2001 made no mention of the appellant`s human rights. In our view it should have. By that date the Human Rights Act and the human rights provisions of the 1999 Act applied to all decisions taken after 2 October 2000. From that date onwards consideration of whether a decision was contrary to a person`s human rights should have become as much part and parcel of what Entry Clearance Officers examined as it had become for immigration officers and persons acting on behalf of the Secretary of State.
+Nevertheless the grounds of appeal against that decision made no mention of the decision's human rights dimension either. Plainly therefore this was not an appeal which could fall within s. 65(1), since no relevant allegation had been made prior to the date of hearing.
+But, as the adjudicator records, the Article 8 issue was raised by the claimant and his representatives at the hearing before an adjudicator.
+From that moment on it was plain that a question had arisen under s. 65(3).
+The only possible reason for doubting that s. 65(3) applied concerned whether the decision in question was one "relating to that person`s entitlement to enter or remain in the United Kingdom".
+However, following the starred of the Tribunal in Kehinde (01TH2668) which gave a broad reading to the phrase "relating to that person`s entitlement to enter or remain in the United Kingdom..." we have no difficulty in concluding that a decision by an Entry Clearance Officer refusing to grant a certificate of entitlement falls within the meaning of that phrase. Accordingly this claimant had a section 65(3) appeal.
+We also think that even if for some reason s. 65 had not applied, the adjudicator would have been obliged to consider whether the decision in question complied with the claimant`s human rights by virtue of paragraph 21(1)(a) of Sch 4 to the 1999 Act so as to be "in accordance with the law or with any immigration rules applicable to the case". The term "law" in this phrase must plainly include the Human Rights Act 1998 and the duty imposed on a public authority by s. 6 of that Act not to act in a way contrary to a person`s human rights.
+Thus the adjudicator did have a human rights jurisdiction in this case.
+The Article 8 issue
+The question remains, however, whether the adjudicator was right to allow the claimant`s Article 8 appeal.
+The adjudicator's approach
+At paragraphs 8 and 9 he set out what he described as "The Applicable Law" as follows:
+"In immigration appeals, the burden of proof is on the appellant and the standard of proof required is the balance of probabilities. I can only take into account facts in existence at the date of the respondent` decision, or which were then in reasonable contemplation. In human rights appeal, it is for the appellant to show that there has been interference with his or her human rights. If that is established, and the relevant Article permits, it is then for the respondent to establish that the interference was justified. The appropriate standard of proof is whether there are "substantial grounds for believing the evidence". By virtue of Section 77(4) of the....1999 Act, I am constrained from taking into account facts arising after the respondent`s decision. This constraint applies to all human rights issues, except for those under Article 3. on the specific facts of this appeal any difference between the burdens and standards of proof have not resulted in any material differences in my findings of fact.
+9. The point in time in which I have to consider the relevant facts, for both immigration and human rights issues, is the date of the decision as stated in paragraph 2 above. The requirements of the Rules which are relevant to this appeal are set out under Section 2(1) of the Immigration Act 1971."
+At paragraph 21, having found that Article 8 deserved further consideration, the adjudicator elaborated as follows:
+"Under this Article I have to discern the following separate questions:
+(1) Is there an interference with the right to respect for private life (which includes the right of physical and moral integrity) and family life?
+(2) Is that interference in accordance with the law?
+(3) Does that interference have legitimate aims?
+(4) Is the interference proportionate in a democratic society for the legitimate aim to be achieved?"
+Having set out the applicable law thus, the adjudicator accepted that Shamim had a private life with his half-brothers and sisters and accepted the refusal was in accordance with the law. He found, however, that "that interference, although it has the legitimate aim of maintaining fair immigration control is not proportionate in a democratic society for the legitimate aim of maintaining immigration control".
+He said in paragraph 23 that he had taken certain factors into consideration. These were: that the relationship between this family was of considerable importance, particularly when the three oldest half-siblings had already been granted settlement rights in the UK; that these children spend a considerable period of time together as a family unit and "have been separated for the purpose of the fact that three of them were granted entry clearance for settlement already". He ended:
+"In my view the interference with the siblings` right to family life with each other maintain that level of contact would be disproportionate in a democratic society for the legitimate aim to be achieved in maintaining immigration control. I find therefore that the refusal of entry clearance in respect of Shamim Box could cause the United Kingdom to be in breach of the law or its obligations under the 1950 Convention.
+He then allowed the appeal under Article 8 and directed that Shamim (along with Lala) be granted entry clearance for the purpose of settlement in the United Kingdom "for the reasons as stated above".
+Errors in the adjudicator`s approach
+The adjudicator's treatment of the Article 8 question contained a number of errors.
+The decision
+Firstly, the adjudicator was wrong to identify the decision appealed against as a "refusal of entry clearance". Undeniably he was not helped by the fact that the preface to the Entry Clearance Officer's explanatory statement described the decision under appeal as a refusal of entry clearance. However, as that statement went on to recognise, the actual decision was to refuse a certificate of entitlement to the right of abode under s. 2(1) of the Immigration Act 1971.
+The appropriate standard of proof in entry cases
+Secondly, the adjudicator misidentified the appropriate standard of proof. He described it as being "substantial rounds for believing". However as the Tribunal made clear in Kacaj [2001] INLR 394, the test of "substantial grounds for believing" (which mirrors the lower standard applied in asylum cases) only applies to the context of deportation or removal. It is only in that context that Strasbourg jurisprudence has specified the standard as "substantial grounds for believing". In cases in which the decision in question is that of a UK Entry Clearance Officer or Visa Officer considering not deportation or removal but whether to grant a document essential for entry, Strasbourg has always proceeded on the basis that the relevant standard is that applied under UK immigration law, namely the normal civil standard of a balance of probabilities.
+We have some sympathy with the adjudicator getting the standard of proof in entry cases wrong, since it appears he adopted a standard paragraph widely used by a number of adjudicators. However, it remains that he was wrong. The sooner adjudicators realise that, in relation to human rights issues, entry cases do not follow removal cases in all respects, the better.
+Post-decision evidence
+Thirdly, the adjudicator was wrong to say that by virtue of s. 77(4) of the 1999, "I am constrained from taking account facts arising after the respondent`s decision". That summary overlooks that the actual text of s. 77(4) (b) provides for an exception in the case of "evidence...which relates to relevant facts at that date". As the Tribunal explained in Nhundu and Chiwera (01TH0613), the purpose of this provision was to ensure that when considering human rights grounds the same qualification to the post-decision facts exclusion principles applies as has been applied by the courts in immigration cases. Whilst the Tribunal has not yet reached a firm view on the extent of s. 77(4), it is clearly erroneous for an adjudicator not to note that s. 77(4) permits an adjudicator to take limited account of post-decision facts in this way.
+Not a negative obligation (interference) case but a positive obligation (failure to act/lack of respect) case
+Fourthly, when analysing Article 8 the adjudicator was wrong to treat the relevant issue as whether the decision amounted to an interference with the claimant's right to respect private and family life.
+Leading cases in Strasbourg have consistently viewed the relevant criteria under Article 8 in cases involving entry as requiring not an analysis of whether the decision interferes with a claimant's right to respect for private and family life (the negative obligation) but an analysis of whether it amounts to a breach of a State's positive obligation to respect private and family life. In Abdulaziz v UK
+(1985) 7 EHRR 471
+the Court clarified that when considering the extent of a State`s obligations to admit to its territory relatives of settled immigrants, it was necessary to focus on the positive obligations inherent in the notion of "respect" and so examine whether there had been a lack of respect for family life. Another leading case is Ahmut v Netherlands
+(1997) 24 EHRR 62
+, which concerned an application made in Tangiers from a child to be granted a residence permit authorising him to rejoin his father in the Netherlands. At paragraph 63 The Court reasoned as follows:
+"The present case hinges on the question whether the Netherlands Government was under a duty to allow Souffiane to reside with his father in the Netherlands, thus enabling the applicant to maintain and develop family life in its territory. For this reason the Court will view the case as one involving an allegation of failure on the part of the respondent State to comply with a positive obligation."
+Thus, in the context of a decision by an Entry Clearance Officer refusing a certificate of entitlement (or entry clearance) the case should likewise be viewed as one involving an allegation of a failure (or lack of respect) on the part of the UK authorities to comply with a positive obligation to facilitate the right to family reunification in appropriate circumstances.
+It must be emphasised straightaway that whilst the approach to Article 8 in the case of an entry decision is different than in a removal case, Strasbourg has never seen this to entail a significant difference in underlying criteria. As the Court said earlier on at paragraph 63 of Ahmut:
+"The court reiterates that the essential object of Article 8 is to protect the individual against arbitrary action by the public authorities. There may in addition be positive obligations inherent in effective "respect" for family life. However, the boundaries between the State`s positive and negative obligations under this provision do not lend themselves to precise definition. The applicable principles are, nonetheless, similar. In both contexts regard must be had to the fair balance that has to be struck between the competing interests of the individual and the community as a whole; and in both contexts the State enjoys a certain margin of appreciation".
+We would observe that, in viewing the relevant issue in a case of this type to be one of positive obligations or as a lack of respect, it is not necessary to resort to a strained interpretation of s. 65. On the contrary. Section 6(6) of the Human Rights Act states that "an act" includes a failure to act. To similar effect, s. 65(2)(b) specifies that:
+"an authority acts in breach of a person`s human rights if he acts, or fails to act, in relation to that other person in a way which is made unlawful by section 6(1) of the Human Rights Act 1998 (emphasis added).
+Thus the relevant question the adjudicator should have considered was not whether the decision amounted to a disproportionate interference but whether the immigration authority, in the particular circumstances of this case, the Entry Clearance Officer had,by failing to grant Shamim some type of entry permission to go with his half-siblings to the United Kingdom,failed to comply with the "positive obligation" on him to facilitate family reunion.
+In answering this question the same criteria as in interference cases will be relevant, for example the fact that Article 8 does not impose on a State a general obligation to respect immigrants` choice of the country of their matrimonial residence and to authorise family reunion it its territory (Gul v Switzerland
+(1996) 22 EHRR 93
+para 38).
+Also relevant will be the test of whether there are insurmountable obstacles to the relevant family members enjoying their family life elsewhere.
+Mr Allison sought to disagree on this last point concerning the test of insurmountable obstacles. However, we are satisfied that is still a relevant test in the entry context. He is right to say that a different type of comparison may be called for in this different context. There is one obvious difference: whereas in the typical removal case the focus is whether someone can stay in the UK, in the typical entry case the focus is on whether someone can go to the UK. However in both contexts it will be relevant to consider whether the person who is in the UK (whether as someone facing removal or as a sponsor lawfully settled) can enjoy family life in the country of origin. Thus in Ahmut, which as we have already noted was a case concerning entry, the Court noted at paragraph 70 that the fact of the applicant living apart was a result of his father`s conscious decision to settle in the Netherlands rather than remain in Morocco. It noted further that although his father had acquired Netherlands nationality, he had retained his original Moroccan nationality and:
+"It therefore appears that [the father] is not prevented from maintaining the degree of family life which he himself had opted for when moving to the Netherlands in the first place, nor is there any obstacle to his returning to Morocco..."
+In elaborating on why he did not think the obstacles test was relevant in this case, Mr Allison argued that it should not be counted against the claimant that his half-siblings had chosen to go the UK. Although he did not develop this argument fully, we have considered it by reference to the Court of Appeal case of Husna Begum [2201] INLR 115 in which Pill LJ in evaluating a claim by an eldest daughter of a Bangladesh sponsor to join him commented:
+"All the circumstances must be considered when paragraph 317(i)(f) is applied. It may be relevant, as in Abdulaziz v UK (1985)) 7 EHRR 471 and...ex parte Arman Ali
+[2000] INLR 89
+, that the family have the opportunity to live together in another country. There may be cases where the conduct of other members of the family is relevant to an application under paragraph 317(f). Those considerations cannot in my judgment reasonably be crucial or overwhelming in the circumstances of this case. The father has been in the UK for many years, albeit most of them unlawfully. His wife and three of his five children are now here, having been granted entry clearance. It is in that context that the position of the appellant must be considered. She should not, in effect, be punished for being the only member of the immediate family left in Bangladesh. The fact that the other members of her immediate family choose to live in the UK rather than Bangladesh cannot of itself determine her application against her. The family has chosen to settle in the UK. That decision should not in itself prejudice her position to settle in the UK. That decision should not in itself prejudice her position as the only other member of the family. Nor, with respect, should emotive comments about the family abandoning its vulnerable members. These should not be determinative in the present circumstances".
+We take from this the following. The choice of residence of other family members is a relevant circumstance. However how decisive or crucial a circumstance will depend on the facts of the particular case. Plainly in cases such as Ahmut v Netherlands Strasbourg has seen it as a significant albeit not decisive consideration. In certain cases such as Husna Begum, it had much less bearing. In the particular circumstance of the Shamim Box case, however, we have considered it as more significant than it was viewed in the Husna Begum case largely because the other family members are not going to join a parent who is still alive and, in contrast to the Husna Begum case where the three children who had been granted settlement in the UK were under 18, none of the siblings was under the age of 18. Furthermore, the claimant in this case was not, as was the claimant in Husna Begum, faced with the specific problems of an unmarried girl facing with living on her own.
+In all cases proportionality remains central to deciding the question. It will always be necessary for the decision-maker to demonstrate he or she has conducted a balancing exercise striking a fair balance between the competing interests of the individual and those of the community.
+Application of the relevant law to the facts in this case.
+The adjudicator concluded the appellant had established there existed between him and his half-siblings a private and family life. We think that conclusion was fully justified. The claimant was no longer a minor child but at the date of decision there was still a close emotional relationship between him and his half-siblings having all the hallmarks of a family life relationship: they were still living together.
+As already noted the adjudicator erred in his approach to the relevant standard of proof and to the proper question to be asked in the Article 8 context (he focussed on interference rather than disrespect). However, we do not think that these errors were fundamental in this case. He noted when setting out the standard of proof that "[o]n the specific facts of this appeal any differences between the burdens and standards of proof have not resulted in any material differences in my findings of fact". And although he was wrong to focus on interference, we have already noted the view of the European Court of Human Rights that the underlying criteria under either the negative obligations or positive obligations approach is essentially the same. And in this case the adjudicator did go on to conduct a balancing exercise.
+He found the claimant's interest in maintaining a close level of contact with his half-siblings outweighed the interests of the UK authorities in maintaining immigration control. The appellant asked us to overturn that finding.
+Whilst the Tribunal will always hesitate long before interfering in an adjudicator's balancing of relevant considerations in a particular case, we find ourselves unable to conclude that he conducted this balancing exercise by reference to all the relevant circumstances. In particular he made two serious mistakes.
+The first was treating the case as if the claimant was a minor child. Shamim was not. At the date of decision he was 23. Furthermore all of his other half-siblings were older. Five of them were married. Some had children of their own. There was no evidence that despite his age the claimant had particular reasons of health or of mental or emotional immaturity for his relationship with them to require a specific ongoing dependancy.
+The second mistake was his assuming the claimant would as a consequence of the decision by the Entry Clearance Officer be entirely separated from close members of his family. On the evidence that was not the case. Certainly it was reasonable to infer from the fact that all his half-siblings (apart from Lala) been granted a right of entry into the UK, that there would be some disruption in his private and family life relationships with those going abroad. However his mother, Baharajan Begum, was also living with him. Although she said at interview she too was making an application to go to the UK in her own right, there was no record of such an application. Given that the late sponsor`s second wife had already settled in the UK, it was difficult to see that she had any lawful basis of entry under the Immigration Rules (which prohibit at paragraph 278 of HC395 admission as a second wife). Arguably she might have had a claim to right of abode as a Commonwealth citizen wife, but given that the ECO noted, "it has not been established who is the real Bharajan Begum", her application would have had an extra hurdle to surmount, that of proving she was who she claimed to be. In any event, the most that could be said at the date of decision was that, even if holding some expectations about going to he UK, Shamim`s mother had yet to make a proper application to go there and so would remain in Bangladesh living together with the claimant. In addition, it was accepted at interview that, even those half-siblings travelling to the UK, would leave their wives and children behind and would not call them over until later. Presumably therefore there would be continuing extended family contact with them. At interview reference was also made to an uncle.
+Accordingly the departure of his half-siblings would still leave Shamim with some family life relationships intact.
+But for these two mistakes the adjudicator could not properly have reached the decision he did. Manifestly a male 23 year old without special health or mental difficulties had no legitimate expectation of being able to move to the United Kingdom so as to remain close to his half-siblings. The decision refusing him a certificate of entitlement was plainly proportionate.
+One further matter merits mention at this stage. It links back to our earlier analysis of the relevance of s. 77(4). On one view of s. 77(4) it would have been possible to rely on the requirement to consider only evidence as at the date of decision so as to dismiss the claimant`s appeal in quite peremptory terms. The point might have been taken against the claimant that, "Well, you claim a violation of Article 8 but at the date of decision you were still living together with your family, including some of your half-siblings. Hence there was no disrespect for your family life. Any disrespect of breach was only prospective".
+However like the adjudicator we have declined to view matters in this way. Although the claimant's family were still together at the date of decision it was reasonably foreseeable at that time that they would or could be separated. Certificates of entitlement had been issued for three of the claimant`s half-siblings, settlement entry clearance had been issued for two others. By virtue of the application for a certificate of entitlement it was also reasonably foreseeable that Lala, if successful in his application, would also go to the UK. Just because one must look at evidence as it is at the date of decision does not mean one cannot look forward from that date and assess what is reasonably foreseeable as at that date.
+In taking this approach we note that it aligns with that taken by the Court of Appeal in the case of Husna Begum when considering the fact that at the date of decision the claimant still had a brother living with her in possession of an entry clearance to go to the UK. Sir Anthony Evans agreeing with Pill LJ wrote:
+"Both parties, including counsel for the Secretary of State, agree, as I understand it, that the Tribunal should properly take account, at least in the present case, of what the situation will be if the son does decide to enter this country, as he is entitled to do. I therefore would deplore the narrow point which appears to have been taken in para 15 as to the requirement that para 317(i)(f) should be satisfied strictly in the present tense".
+However, for reasons explained earlier, we do not think that this prospective approach assists the claimant in proving his Article 8 case.
+For the sake of completeness we should clarify that we have not found it necessary to deal with the first ground of appeal in this case. This ground challenged the adjudicator`s power or jurisdiction to make a direction that Shamim (and Lala) be granted entry clearance. Had we found it necessary to address this issue, we would have allowed the appeal on this ground. However we would have done so not because we doubt adjudicators have the power to make directions for entry clearance in appropriate cases. Clearly they do: see paragraph 21(5)(a) of Sch 4 to the 1999 Act. Our reason would have been that the decision in question was not a refusal of entry clearance. It was a refusal of a certificate of entitlement. A person who is entitled to a certificate of entitlement to the right of abode does not require leave to enter under the Immigration Acts. Entry clearance is not required and is certainly not necessary to give effect to a determination that a certificate of entitlement be granted.
+For the above reasons this appeal is allowed.
+Summary of conclusions
+To summarise our principal conclusions:
+1. Even though neither the Entry Clearance Officer nor the claimant in his appeal to an adjudicator raised Article 8, once the Article 8 question was raised at the hearing the adjudicator was correct to assume jurisdiction to decide the question: see s. 65(3) of the 1999 Act.
+2. A decision by an Entry Clearance Officer refusing to grant a certificate of entitlement falls within the meaning of the (s. 65) phrase "relating to that person's entitlement to enter or remain in the United Kingdom". Accordingly the claimant had a section 65(3) appeal.
+3. In entry cases the appropriate standard of proof for deciding human rights questions is not "substantial grounds for believing". It is the normal civil standard of the balance of probabilities.
+4. In saying, "I am constrained from taking account of facts arising after the respondent's decision", the adjudicator overlooked the provisions of s. 77(4)(b) of the 1999 Act which permits adjudicators to take limited account of post-decision evidence.
+5. In entry cases adjudicators should not treat the Article 8 question as one of whether there has been an unjustified interference with the right to respect for private and family life. They should treat it as one of whether there has been an unjustified lack of respect for private and family life. The focus should be on whether, in the light of the positive obligation on UK to facilitate family reunion, there has been a failure to act in the particular circumstances of the case.
+6. Nonetheless in interference and lack of respect cases similar principles apply. In conducting the necessary balancing exercise, it remains relevant that a state does not have a general obligation to respect immigrants` choice of the country of their residence. It also remains relevant to consider whether there are insurmountable obstacles to the family enjoying family life elsewhere. However, as clarified by the Court of Appeal in Husna Begum, the extent to which the test of insurmountable obstacles is relevant will vary from case to case.
+7. As also clarified by Husna Begum, the need to consider whether Article 8 was breached at the date of decision does not entail that one should consider the present state of affairs only. It was necessary in this type of case to take account of the reasonably foreseeable fact that the claimant's half-siblings, being in possession of certificates of entitlement or entry clearance, would be leaving in order to travel to the UK.
+8. In conducting the balancing exercise in this case the adjudicator wrongly overlooked the significance that the claimant and all of his half-siblings were no longer minor children. He also wrongly overlooked the fact that the claimant would remain living in Bangladesh with his mother together with certain other extended family members. Given that the claimant was a 23 years old with no specific health or physical or mental difficulties who would continue to have some family relationships in Bangladesh, the adjudicator's conclusion that refusal of entry was disproportionate was not sustainable.
+DR H H STOREY (VICE-PRESIDENT)
+BAILII:
+Copyright Policy
+|
+Disclaimers
+|
+Privacy Policy
+|
+Feedback
+|
+Donate to BAILII
+URL:
+http://www.bailii.org/uk/cases/UKIAT/2002/02212.html
