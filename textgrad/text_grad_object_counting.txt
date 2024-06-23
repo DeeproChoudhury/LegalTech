@@ -1,0 +1,117 @@
+Accuracy: 0.66: 100%|██████████| 100/100 [00:52<00:00,  1.91it/s]             
+val_performance:  0.66
+previous_performance:  0.65
+sys prompt:  You will answer a reasoning question by listing the distinct items directly, without additional explanations. Combine the item listing and numerical answer into a single line in the format: "Item 1, Item 2, ...: Answer". Provide the complete arithmetic calculation if needed. Double-check your calculations. Verify that the units/quantities in your answer match those asked about in the question. If unable to perform the requested calculation, acknowledge that. For example:
+
+For the question "What fruits are there?", the response should be: "Apple, Banana, Orange: 3"
+Accuracy: 0.69: 100%|██████████| 100/100 [00:54<00:00,  1.83it/s]             
+Accuracy: 0.63: 100%|██████████| 100/100 [01:40<00:00,  1.01s/it]             
+val_performance:  0.63
+previous_performance:  0.66
+rejected prompt: You will answer reasoning questions by providing only the numerical answer, without any additional text. Double-check your counting and calculations carefully. Verify that the units/quantities in your answer match those asked in the question.
+
+For questions asking to list or count distinct items:
+- Count each individual object separately, even if they are part of a set (e.g. treat "4 chairs" as 4 distinct objects)
+- Re-read the listed objects carefully to avoid missing any
+- Deduplicate any items that are mentioned more than once
+- Verify that the final counted number matches the number of distinct items listed
+
+For arithmetic operations or comparisons, provide the complete calculation. If unable to perform the requested operation, simply acknowledge that.
+
+Use common sense reasoning about what objects would typically be found together to cross-check your answers.
+
+Examples:
+Q: "What fruits are there?"
+A: 3
+sys prompt:  You will answer a reasoning question by listing the distinct items directly, without additional explanations. Combine the item listing and numerical answer into a single line in the format: "Item 1, Item 2, ...: Answer". Provide the complete arithmetic calculation if needed. Double-check your calculations. Verify that the units/quantities in your answer match those asked about in the question. If unable to perform the requested calculation, acknowledge that. For example:
+
+For the question "What fruits are there?", the response should be: "Apple, Banana, Orange: 3"
+Accuracy: 0.69: 100%|██████████| 100/100 [00:00<00:00, 532.89it/s]             
+Accuracy: 0.88: 100%|██████████| 100/100 [01:53<00:00,  1.14s/it]             
+val_performance:  0.88
+previous_performance:  0.66
+sys prompt:  You will answer a reasoning question by listing the distinct items grouped by type, counting the number of each type, and providing the total count on a separate line. Combine the grouped item listing and counts into a single line in the format: "X item1, Y item2, ...: Total count". Provide the complete arithmetic calculation if needed. Double-check your calculations. Ensure the units/quantities in your answer match those asked about in the question. If unable to perform the requested calculation, acknowledge that. For example:
+
+For the question "What fruits are there?", the response should be: "1 apple, 2 bananas, 3 oranges: 6 fruits"
+Total: 6
+Accuracy: 0.77: 100%|██████████| 100/100 [02:03<00:00,  1.24s/it]             
+Accuracy: 0.88: 100%|██████████| 100/100 [01:23<00:00,  1.20it/s]             
+val_performance:  0.88
+previous_performance:  0.88
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [01:30<00:00,  1.10it/s]             
+Training step 3. Epoch 0: : 3it [12:45, 255.08s/it]
+Accuracy: 0.24: 100%|██████████| 100/100 [01:08<00:00,  1.46it/s]              
+val_performance:  0.24
+previous_performance:  0.88
+rejected prompt: For the given list of items, carefully identify which ones are musical instruments. Then enumerate each musical instrument starting from 1, clarifying any ambiguous items in parentheses if needed. After listing out all the musical instruments, double-check your enumeration by counting them again. Finally, provide only the total numerical count of musical instruments based on your enumerated list, without any additional explanatory text.
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 591.90it/s]             
+Accuracy: 0.69: 100%|██████████| 100/100 [00:29<00:00,  3.43it/s]             
+val_performance:  0.69
+previous_performance:  0.88
+rejected prompt: Count the number of household items/appliances and respond with a single integer representing the total count. For example, if the items were "a fridge and a microwave", the response should be "2". To count the items:
+1. Identify the household items/appliances in the given list.
+2. Count each distinct item type.
+3. Sum up the counts to get the total number.
+4. Provide only the final numeric total as the response.
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 586.45it/s]             
+Accuracy: 0.84: 100%|██████████| 100/100 [01:52<00:00,  1.12s/it]             
+val_performance:  0.84
+previous_performance:  0.88
+rejected prompt: Count only the relevant items clearly stated in the input question, without making assumptions about additional unstated items. If an item is pluralized, count it only once. Distinguish between different categories like vegetables and fruits, only counting items in the requested category. Step through the input line-by-line, keeping a running total of the counted items. Provide the final total count in a concise sentence at the end, without extraneous details. If appropriate, show your work or justification for arriving at the count.
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 498.66it/s]             
+Accuracy: 0.69: 100%|██████████| 100/100 [00:37<00:00,  2.69it/s]              
+val_performance:  0.69
+previous_performance:  0.88
+rejected prompt: To accurately count the total number of items:
+
+1. Carefully read the input question and identify the specific category of items to be counted (e.g. musical instruments).
+2. List out each individual item from that category mentioned in the input, along with its quantity.
+3. Add up the quantities of all listed items in that category.
+4. Double-check your counting and calculations.
+5. Provide the final numerical total count as a raw number (e.g. 5), without any additional words.
+6. Optionally, rephrase the final answer in a more natural way, e.g. "The total number of musical instruments is 5."
+
+Example input: "I have 2 guitars, 1 piano, and 3 drums. How many musical instruments do I have?"
+Example output: 6
+The total number of musical instruments is 6.</
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 494.76it/s]             
+Training step 3. Epoch 1: : 3it [06:41, 133.68s/it]
+Accuracy: 0.21: 100%|██████████| 100/100 [02:55<00:00,  1.76s/it]              
+val_performance:  0.21
+previous_performance:  0.88
+rejected prompt: Show all steps and calculations used to arrive at the final answer. Clearly define variables to represent each type of item being counted, and use those variables in your calculations. Consider using mathematical notation (e.g. summation symbols) to represent the addition steps. Visually represent the problem, such as with a table or diagram, to organize the information.
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 565.94it/s]             
+Accuracy: 0.63: 100%|██████████| 100/100 [00:32<00:00,  3.04it/s]             
+val_performance:  0.63
+previous_performance:  0.88
+rejected prompt: Output only the total count of items as a single number. Do not include any additional text, preamble, or summary.
+
+Examples:
+Input: I have 3 apples, 2 oranges, and 1 banana.
+Output: 6
+
+Input: There are 5 chairs, 1 table, and 2 lamps in the room.
+Output: 8
+
+For inputs that list multiple items, identify the items, count them, and return only the numeric count. Do not interpret the question literally or enumerate the items in the output.
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 621.51it/s]             
+Accuracy: 0.56: 100%|██████████| 100/100 [00:26<00:00,  3.73it/s]              
+val_performance:  0.56
+previous_performance:  0.88
+rejected prompt: Carefully count the exact number of distinct items explicitly mentioned, without making assumptions about any missing items. Respond with only the numerical count as an integer string with no words or punctuation. If asked about multiple instances of the same item type (e.g. 'apples'), count each instance individually.
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 579.24it/s]             
+Accuracy: 0.38: 100%|██████████| 100/100 [00:57<00:00,  1.75it/s]              
+val_performance:  0.38
+previous_performance:  0.88
+rejected prompt: For questions asking to count a specific type of item, carefully read through the list and keep a running count of only the relevant items mentioned. Provide your response as a single number representing the total count, without any additional explanation or context. Enumerate the counted items using a clear formatting like bullet points or line breaks to avoid confusion. Double-check your counting before providing the final answer.
+sys prompt:  Provide the total count of items as a single number. Double-check your counting.
+Accuracy: 0.87: 100%|██████████| 100/100 [00:00<00:00, 538.19it/s]             
+Training step 3. Epoch 2: : 3it [07:09, 143.26s/it]
